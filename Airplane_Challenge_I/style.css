@@ -1,0 +1,21 @@
+#space {
+    background-image: url('space.jpeg');
+    width: 900px;
+    height: 700px;
+}
+
+.player {
+    width: 55px;
+    height: 55px;
+    background-size: contain;
+    background-image: url('player.png');
+    position: absolute;
+}
+
+.enemy {
+    background-size: contain;
+    width: 70px;
+    height: 75px;
+    background-image: url('enemy.png');
+    position: relative;
+}
