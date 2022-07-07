@@ -1,4 +1,4 @@
-Space Invaders style game challenge using Vanilla JavaScript, Html and CSS.
+Space Invaders style game challenge using Vanilla JavaScript, Html and CSS: PART I
 
 
 * Build divisions for space, players and enemies
